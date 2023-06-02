@@ -15,3 +15,11 @@ body {
     background: -moz-linear-gradient(left, white, --cor01);
     filter: progid:DXImageTransform.Microsoft.Gradient(GradientType=1, StartColorStr=white, EndColorStr=var(--cor01));
 }
+
+.menu a{
+    clear:right;
+    text-decoration: none;
+    color: gray;
+    line-height: 70px;
+ 
+}
