@@ -11,7 +11,7 @@
 }
 
 body {
-    background: -webkit-gradient(linear, left top, right top, from(rgb(248, 248, 248)), to(var(--cor1)));
-    background: -moz-linear-gradient(left, white, --cor1);
-    filter: progid:DXImageTransform.Microsoft.Gradient(GradientType=1, StartColorStr=white, EndColorStr=var(--cor1));
+    background: -webkit-gradient(linear, left top, right top, from(rgb(248, 248, 248)), to(var(--cor01)));
+    background: -moz-linear-gradient(left, white, --cor01);
+    filter: progid:DXImageTransform.Microsoft.Gradient(GradientType=1, StartColorStr=white, EndColorStr=var(--cor01));
 }
