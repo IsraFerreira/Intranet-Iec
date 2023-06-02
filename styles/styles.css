@@ -14,4 +14,4 @@ body {
     background: -webkit-gradient(linear, left top, right top, from(rgb(248, 248, 248)), to(var(--cor1)));
     background: -moz-linear-gradient(left, white, --cor1);
     filter: progid:DXImageTransform.Microsoft.Gradient(GradientType=1, StartColorStr=white, EndColorStr=var(--cor1));
-  }
+}
